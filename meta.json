@@ -1,0 +1,23 @@
+{
+  "repo": "comodo-internet-universal-2026",
+  "product": "Comodo Internet Universal 2026",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "comodo-internet-universal",
+    "comodo-windows",
+    "endpoint-security-desktop",
+    "how-to-install-comodo",
+    "comodo-internet-universal-desktop-package",
+    "comodo-workspace",
+    "comodo-2026",
+    "comodo-internet-universal-pro-tools",
+    "comodo-suite",
+    "zentool-comodo"
+  ],
+  "site": "zentool.art"
+}
